@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task_3_Homework_OOP_Principles___Part_1.Animal" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAxAAAAEQAAAQAAAAEAAAABAAAAAAAAgA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.53" />
+  </Class>
+  <Class Name="Task_3_Homework_OOP_Principles___Part_1.Cat" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_3_Homework_OOP_Principles___Part_1.Dog" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_3_Homework_OOP_Principles___Part_1.Frog" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Frog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_3_Homework_OOP_Principles___Part_1.Kitten" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Kitten.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_3_Homework_OOP_Principles___Part_1.Program">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_3_Homework_OOP_Principles___Part_1.Tomcat" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Tomcat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ISound">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

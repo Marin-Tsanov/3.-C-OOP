@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\13. Enumerations\bin\Debug\_13.Enumerations.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\13. Enumerations\bin\Debug\_13.Enumerations.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\13. Enumerations\bin\Debug\_13.Enumerations.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\13. Enumerations\obj\Debug\13. Enumerations.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\13. Enumerations\obj\Debug\_13.Enumerations.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\13. Enumerations\obj\Debug\_13.Enumerations.pdb

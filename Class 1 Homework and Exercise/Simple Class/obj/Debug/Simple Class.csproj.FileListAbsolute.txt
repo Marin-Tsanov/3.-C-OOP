@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\ConsoleApplication1\Simple Class\bin\Debug\Simple Class.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\ConsoleApplication1\Simple Class\bin\Debug\Simple Class.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\ConsoleApplication1\Simple Class\bin\Debug\Simple Class.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\ConsoleApplication1\Simple Class\obj\Debug\Simple Class.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\ConsoleApplication1\Simple Class\obj\Debug\Simple Class.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\ConsoleApplication1\Simple Class\obj\Debug\Simple Class.pdb

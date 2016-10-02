@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Class 4 Homework OOP Principles part 1\Animals.csproj", "{11745E74-9B6E-40A0-9CF6-B7E5C7C844DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{84F4A1DB-C063-4B6D-9531-34B202F8E752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsAndWorkers", "StudentsAndWorkers\StudentsAndWorkers.csproj", "{20435632-6E7F-4237-B082-447565DE1F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11745E74-9B6E-40A0-9CF6-B7E5C7C844DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11745E74-9B6E-40A0-9CF6-B7E5C7C844DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11745E74-9B6E-40A0-9CF6-B7E5C7C844DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11745E74-9B6E-40A0-9CF6-B7E5C7C844DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F4A1DB-C063-4B6D-9531-34B202F8E752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F4A1DB-C063-4B6D-9531-34B202F8E752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F4A1DB-C063-4B6D-9531-34B202F8E752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F4A1DB-C063-4B6D-9531-34B202F8E752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20435632-6E7F-4237-B082-447565DE1F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20435632-6E7F-4237-B082-447565DE1F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20435632-6E7F-4237-B082-447565DE1F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20435632-6E7F-4237-B082-447565DE1F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

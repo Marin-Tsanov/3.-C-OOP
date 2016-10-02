@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 HOMEWORK BY MARIN\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 HOMEWORK BY MARIN\Exercise\bin\Debug\Exercise.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 HOMEWORK BY MARIN\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 HOMEWORK BY MARIN\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 HOMEWORK BY MARIN\Exercise\obj\Debug\Exercise.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 HOMEWORK BY MARIN\Exercise\obj\Debug\Exercise.pdb

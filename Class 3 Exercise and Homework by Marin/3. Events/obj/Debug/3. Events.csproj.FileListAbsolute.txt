@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 Exercise and Homework by Marin\3. Events\bin\Debug\_3.Events.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 Exercise and Homework by Marin\3. Events\bin\Debug\_3.Events.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 Exercise and Homework by Marin\3. Events\bin\Debug\_3.Events.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 Exercise and Homework by Marin\3. Events\obj\Debug\3. Events.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 Exercise and Homework by Marin\3. Events\obj\Debug\_3.Events.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 3 Exercise and Homework by Marin\3. Events\obj\Debug\_3.Events.pdb

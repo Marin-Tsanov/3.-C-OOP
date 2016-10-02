@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\10. Constructors more than one\bin\Debug\_10.Constructors_more_than_one.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\10. Constructors more than one\bin\Debug\_10.Constructors_more_than_one.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\10. Constructors more than one\bin\Debug\_10.Constructors_more_than_one.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\10. Constructors more than one\obj\Debug\10. Constructors more than one.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\10. Constructors more than one\obj\Debug\_10.Constructors_more_than_one.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\10. Constructors more than one\obj\Debug\_10.Constructors_more_than_one.pdb

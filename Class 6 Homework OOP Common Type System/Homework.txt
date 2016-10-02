@@ -1,0 +1,1 @@
+Домашното е взето от https://github.com/DanielaPopova/TelerikAcademy_Homeworks/tree/master/C%23OOP/CommonTypeSystem_HW/P01-03.StudentClass

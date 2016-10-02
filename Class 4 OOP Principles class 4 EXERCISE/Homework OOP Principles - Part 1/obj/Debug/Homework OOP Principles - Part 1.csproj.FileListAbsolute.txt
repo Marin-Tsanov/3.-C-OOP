@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 4 OOP Principles class 4 EXERCISE\Homework OOP Principles - Part 1\bin\Debug\Homework OOP Principles - Part 1.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 4 OOP Principles class 4 EXERCISE\Homework OOP Principles - Part 1\obj\Debug\Homework OOP Principles - Part 1.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 4 OOP Principles class 4 EXERCISE\Homework OOP Principles - Part 1\bin\Debug\Homework OOP Principles - Part 1.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 4 OOP Principles class 4 EXERCISE\Homework OOP Principles - Part 1\bin\Debug\Homework OOP Principles - Part 1.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 4 OOP Principles class 4 EXERCISE\Homework OOP Principles - Part 1\obj\Debug\Homework OOP Principles - Part 1.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 4 OOP Principles class 4 EXERCISE\Homework OOP Principles - Part 1\obj\Debug\Homework OOP Principles - Part 1.pdb

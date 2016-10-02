@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\6. Demo Properties 2nd edition\bin\Debug\_6.Demo_Properties_2nd_edition.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\6. Demo Properties 2nd edition\bin\Debug\_6.Demo_Properties_2nd_edition.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\6. Demo Properties 2nd edition\bin\Debug\_6.Demo_Properties_2nd_edition.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\6. Demo Properties 2nd edition\obj\Debug\6. Demo Properties 2nd edition.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\6. Demo Properties 2nd edition\obj\Debug\_6.Demo_Properties_2nd_edition.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\6. Demo Properties 2nd edition\obj\Debug\_6.Demo_Properties_2nd_edition.pdb

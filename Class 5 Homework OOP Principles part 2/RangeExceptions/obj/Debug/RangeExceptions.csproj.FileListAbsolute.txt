@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 5 Homework OOP Principles part 2\RangeExceptions\bin\Debug\RangeExceptions.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 5 Homework OOP Principles part 2\RangeExceptions\bin\Debug\RangeExceptions.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 5 Homework OOP Principles part 2\RangeExceptions\bin\Debug\RangeExceptions.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 5 Homework OOP Principles part 2\RangeExceptions\obj\Debug\RangeExceptions.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 5 Homework OOP Principles part 2\RangeExceptions\obj\Debug\RangeExceptions.pdb

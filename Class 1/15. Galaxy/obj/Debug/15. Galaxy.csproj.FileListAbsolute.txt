@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\15. Galaxy\bin\Debug\_15.Galaxy.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\15. Galaxy\bin\Debug\_15.Galaxy.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\15. Galaxy\bin\Debug\_15.Galaxy.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\15. Galaxy\obj\Debug\_15.Galaxy.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Class 1\15. Galaxy\obj\Debug\_15.Galaxy.pdb
